@@ -1,0 +1,7 @@
+/_build
+/cover
+/deps
+vannotate
+erl_crash.dump
+*.ez
+/tmp
